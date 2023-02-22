@@ -1,0 +1,395 @@
+#EXTM3U
+#EXTINF:0,12585 tvg-logo="https://epg.ovh/logo/TVP+1.png" tvg-id="TVP 1" tvg-chno="287" tvg-name="TVP 1",TVP 1
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12585
+#EXTINF:0,12586 tvg-logo="https://epg.ovh/logo/TVP+2.png" tvg-id="TVP 2" tvg-chno="288" tvg-name="TVP 2",TVP 2
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12586
+#EXTINF:0,10260 tvg-logo="https://epg.ovh/logo/TVP+2.png" tvg-id="TVP 2 HD" tvg-chno="289" tvg-name="TVP 2 HD",TVP 2 HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10260
+#EXTINF:0,10093 tvg-logo="https://epg.ovh/logo/TVP+HD.png" tvg-id="TVP HD" tvg-chno="290" tvg-name="TVP HD",TVP HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10093
+#EXTINF:0,12587 tvg-logo="https://epg.ovh/logo/TVP+Info.png" tvg-id="TVP INFO HD" tvg-chno="291" tvg-name="TVP INFO HD",TVP INFO HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12587
+#EXTINF:0,10091 tvg-logo="https://epg.ovh/logo/TVP+Seriale.png" tvg-id="TVP Seriale" tvg-chno="292" tvg-name="TVP Seriale",TVP Seriale
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10091
+#EXTINF:0,12941 tvg-logo="https://epg.ovh/logo/TVP+3.png" tvg-id="TVP 3" tvg-chno="293" tvg-name="TVP 3",TVP 3
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12941
+#EXTINF:0,10076 tvg-logo="https://epg.ovh/logo/TVP+Rozrywka.png" tvg-id="TVP Rozrywka" tvg-chno="294" tvg-name="TVP Rozrywka",TVP Rozrywka
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10076
+#EXTINF:0,11614 tvg-logo="https://epg.ovh/logo/Polsat.png" tvg-id="Polsat HD" tvg-chno="295" tvg-name="Polsat HD",Polsat HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11614
+#EXTINF:0,10114 tvg-logo="https://epg.ovh/logo/Super+Polsat.png" tvg-id="Super Polsat" tvg-chno="296" tvg-name="Super Polsat",Super Polsat
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10114
+#EXTINF:0,10136 tvg-logo="https://epg.ovh/logo/Polsat+2.png" tvg-id="Polsat 2 HD" tvg-chno="297" tvg-name="Polsat 2 HD",Polsat 2 HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10136
+#EXTINF:0,10132 tvg-logo="https://epg.ovh/logo/Polsat+News.png" tvg-id="Polsat News HD" tvg-chno="298" tvg-name="Polsat News HD",Polsat News HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10132
+#EXTINF:0,11683 tvg-logo="https://epg.ovh/logo/Polsat+News.png" tvg-id="Polsat News 2" tvg-chno="299" tvg-name="Polsat News 2",Polsat News 2
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11683
+#EXTINF:0,11613 tvg-logo="https://epg.ovh/logo/Polsat+Film.png" tvg-id="Polsat Film HD" tvg-chno="300" tvg-name="Polsat Film HD",Polsat Film HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11613
+#EXTINF:0,11676 tvg-logo="https://epg.ovh/logo/Polsat+Seriale.png" tvg-id="Polsat Seriale HD" tvg-chno="301" tvg-name="Polsat Seriale HD",Polsat Seriale HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11676
+#EXTINF:0,10131 tvg-logo="https://epg.ovh/logo/Polsat+Play.png" tvg-id="Polsat Play HD" tvg-chno="302" tvg-name="Polsat Play HD",Polsat Play HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10131
+#EXTINF:0,10135 tvg-logo="https://epg.ovh/logo/Polsat+Cafe.png" tvg-id="Polsat Cafe HD" tvg-chno="303" tvg-name="Polsat Cafe HD",Polsat Cafe HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10135
+#EXTINF:0,25036 tvg-logo="https://epg.ovh/logo/Polsat+Rodzina.png" tvg-id="Polsat Rodzina" tvg-chno="304" tvg-name="Polsat Rodzina",Polsat Rodzina
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/25036
+#EXTINF:0,12057 tvg-logo="https://epg.ovh/logo/Polsat+Doku.png" tvg-id="Polsat Doku HD" tvg-chno="305" tvg-name="Polsat Doku HD",Polsat Doku HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12057
+#EXTINF:0,25037 tvg-logo="https://epg.ovh/logo/Polsat+Games.png" tvg-id="Polsat Games HD" tvg-chno="306" tvg-name="Polsat Games HD",Polsat Games HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/25037
+#EXTINF:0,12040 tvg-logo="https://epg.ovh/logo/Food+Network.png" tvg-id="Food Network HD" tvg-chno="307" tvg-name="Food Network HD",Food Network HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12040
+#EXTINF:0,10124 tvg-logo="https://epg.ovh/logo/TVN.png" tvg-id="TVN" tvg-chno="308" tvg-name="TVN",TVN
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10124
+#EXTINF:0,12051 tvg-logo="https://epg.ovh/logo/TVN.png" tvg-id="TVN HD" tvg-chno="309" tvg-name="TVN HD",TVN HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12051
+#EXTINF:0,12048 tvg-logo="https://epg.ovh/logo/TVN+24.png" tvg-id="TVN24 HD" tvg-chno="310" tvg-name="TVN24 HD",TVN24 HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12048
+#EXTINF:0,12584 tvg-logo="https://epg.ovh/logo/TVN+24+BiS.png" tvg-id="TVN24 BiS HD" tvg-chno="311" tvg-name="TVN24 BiS HD",TVN24 BiS HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12584
+#EXTINF:0,12052 tvg-logo="https://epg.ovh/logo/TVN+Style.png" tvg-id="TVN Style HD" tvg-chno="312" tvg-name="TVN Style HD",TVN Style HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12052
+#EXTINF:0,12053 tvg-logo="https://epg.ovh/logo/TVN+Turbo.png" tvg-id="TVN Turbo HD" tvg-chno="313" tvg-name="TVN Turbo HD",TVN Turbo HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12053
+#EXTINF:0,10125 tvg-logo="https://epg.ovh/logo/TVN+7.png" tvg-id="TVN 7" tvg-chno="314" tvg-name="TVN 7",TVN 7
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10125
+#EXTINF:0,12049 tvg-logo="https://epg.ovh/logo/TVN+7.png" tvg-id="TVN 7 HD" tvg-chno="315" tvg-name="TVN 7 HD",TVN 7 HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12049
+#EXTINF:0,12050 tvg-logo="https://epg.ovh/logo/TVN+Fabula.png" tvg-id="TVN Fabula HD" tvg-chno="316" tvg-name="TVN Fabula HD",TVN Fabula HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12050
+#EXTINF:0,10142:PL tvg-logo="https://epg.ovh/logo/Canal++Premium.png" tvg-id="Canal+Premium  HD" tvg-chno="317" tvg-name="Canal+Premium  HD",Canal+Premium  HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10142:PL
+#EXTINF:0,25361:PL tvg-logo="https://epg.ovh/logo/Canal++1.png" tvg-id="Canal+ 1 HD" tvg-chno="318" tvg-name="Canal+ 1 HD",Canal+ 1 HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/25361:PL
+#EXTINF:0,10109:PL tvg-logo="https://epg.ovh/logo/Canal++Film.png" tvg-id="Canal+  Film HD" tvg-chno="319" tvg-name="Canal+  Film HD",Canal+  Film HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10109:PL
+#EXTINF:0,10108:PL tvg-logo="https://epg.ovh/logo/Canal++Seriale.png" tvg-id="Canal+ Seriale HD" tvg-chno="320" tvg-name="Canal+ Seriale HD",Canal+ Seriale HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10108:PL
+#EXTINF:0,11584:PL tvg-logo="https://epg.ovh/logo/Canal++Sport.png" tvg-id="Canal+ Sport HD" tvg-chno="321" tvg-name="Canal+ Sport HD",Canal+ Sport HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11584:PL
+#EXTINF:0,10103:PL tvg-logo="https://epg.ovh/logo/Canal++Sport+2.png" tvg-id="Canal+ Sport 2  HD" tvg-chno="322" tvg-name="Canal+ Sport 2  HD",Canal+ Sport 2  HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10103:PL
+#EXTINF:0,42333:PL tvg-logo="https://epg.ovh/logo/Canal++Sport+3.png" tvg-id="Canal+ Sport 3  HD" tvg-chno="323" tvg-name="Canal+ Sport 3  HD",Canal+ Sport 3  HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/42333:PL
+#EXTINF:0,42334:PL tvg-logo="https://epg.ovh/logo/Canal++Sport+4.png" tvg-id="Canal+ Sport 4 HD" tvg-chno="324" tvg-name="Canal+ Sport 4 HD",Canal+ Sport 4 HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/42334:PL
+#EXTINF:0,10110:PL tvg-logo="https://epg.ovh/logo/Canal++Family.png" tvg-id="Canal+  Family HD" tvg-chno="325" tvg-name="Canal+  Family HD",Canal+  Family HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10110:PL
+#EXTINF:0,13786:PL tvg-logo="https://epg.ovh/logo/Canal++Domo.png" tvg-id="Canal+  Domo HD" tvg-chno="326" tvg-name="Canal+  Domo HD",Canal+  Domo HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/13786:PL
+#EXTINF:0,10107:PL tvg-logo="https://epg.ovh/logo/Canal++Kuchnia.png" tvg-id="Canal+  Kuchnia HD" tvg-chno="327" tvg-name="Canal+  Kuchnia HD",Canal+  Kuchnia HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10107:PL
+#EXTINF:0,12020:PL tvg-logo="https://epg.ovh/logo/Canal++Dokument.png" tvg-id="Canal+ Dokument HD" tvg-chno="328" tvg-name="Canal+ Dokument HD",Canal+ Dokument HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12020:PL
+#EXTINF:0,42335:PL tvg-logo="https://epg.ovh/logo/Canal++4K+Ultra+HD.png" tvg-id="Canal+  4K UHD" tvg-chno="329" tvg-name="Canal+  4K UHD",Canal+  4K UHD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/42335:PL
+#EXTINF:0,11596 tvg-logo="https://epg.ovh/logo/HBO.png" tvg-id="HBO HD" tvg-chno="330" tvg-name="HBO HD",HBO HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11596
+#EXTINF:0,10149 tvg-logo="https://epg.ovh/logo/HBO+2.png" tvg-id="HBO 2 HD" tvg-chno="331" tvg-name="HBO 2 HD",HBO 2 HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10149
+#EXTINF:0,11593 tvg-logo="https://epg.ovh/logo/Filmbox+Extra+HD.png" tvg-id="Filmbox Extra HD" tvg-chno="332" tvg-name="Filmbox Extra HD",Filmbox Extra HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11593
+#EXTINF:0,10097 tvg-logo="https://epg.ovh/logo/Filmbox+Premium.png" tvg-id="Filmbox Premium" tvg-chno="333" tvg-name="Filmbox Premium",Filmbox Premium
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10097
+#EXTINF:0,10098 tvg-logo="https://epg.ovh/logo/Filmbox+Family.png" tvg-id="Filmbox Family" tvg-chno="334" tvg-name="Filmbox Family",Filmbox Family
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10098
+#EXTINF:0,10099 tvg-logo="https://epg.ovh/logo/FilmBox+Action.png" tvg-id="Filmbox Action" tvg-chno="335" tvg-name="Filmbox Action",Filmbox Action
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10099
+#EXTINF:0,10081 tvg-logo="https://epg.ovh/logo/Filmbox+Arthouse.png" tvg-id="Filmbox Arthouse" tvg-chno="336" tvg-name="Filmbox Arthouse",Filmbox Arthouse
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10081
+#EXTINF:0,10100 tvg-logo="https://epg.ovh/logo/Kino+TV.png" tvg-id="Kino Tv" tvg-chno="337" tvg-name="Kino Tv",Kino Tv
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10100
+#EXTINF:0,10078 tvg-logo="https://epg.ovh/logo/Stopklatka+TV.png" tvg-id="Stopklatka TV" tvg-chno="338" tvg-name="Stopklatka TV",Stopklatka TV
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10078
+#EXTINF:0,10101 tvg-logo="https://epg.ovh/logo/Cinemax.png" tvg-id="Cinemax HD" tvg-chno="339" tvg-name="Cinemax HD",Cinemax HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10101
+#EXTINF:0,12056 tvg-logo="https://epg.ovh/logo/Cinemax+2.png" tvg-id="Cinemax 2 HD" tvg-chno="340" tvg-name="Cinemax 2 HD",Cinemax 2 HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12056
+#EXTINF:0,10118 tvg-logo="https://epg.ovh/logo/AXN.png" tvg-id="AXN" tvg-chno="341" tvg-name="AXN",AXN
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10118
+#EXTINF:0,12055 tvg-logo="https://epg.ovh/logo/AXN.png" tvg-id="AXN HD" tvg-chno="342" tvg-name="AXN HD",AXN HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12055
+#EXTINF:0,10104 tvg-logo="https://epg.ovh/logo/AXN+Spin.png" tvg-id="AXN Spin HD" tvg-chno="343" tvg-name="AXN Spin HD",AXN Spin HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10104
+#EXTINF:0,10116 tvg-logo="https://epg.ovh/logo/AXN+White.png" tvg-id="AXN White" tvg-chno="344" tvg-name="AXN White",AXN White
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10116
+#EXTINF:0,10117 tvg-logo="https://epg.ovh/logo/AXN+Black.png" tvg-id="AXN Black" tvg-chno="345" tvg-name="AXN Black",AXN Black
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10117
+#EXTINF:0,11687 tvg-logo="https://epg.ovh/logo/BBC+First.png" tvg-id="BBC First HD" tvg-chno="346" tvg-name="BBC First HD",BBC First HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11687
+#EXTINF:0,11655 tvg-logo="https://epg.ovh/logo/BBC+Earth.png" tvg-id="BBC Earth HD" tvg-chno="347" tvg-name="BBC Earth HD",BBC Earth HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11655
+#EXTINF:0,17846 tvg-logo="https://epg.ovh/logo/BBC+Brit.png" tvg-id="BBC Brit" tvg-chno="348" tvg-name="BBC Brit",BBC Brit
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/17846
+#EXTINF:0,17847 tvg-logo="https://epg.ovh/logo/BBC+Lifestyle.png" tvg-id="BBC Lifestyle HD" tvg-chno="349" tvg-name="BBC Lifestyle HD",BBC Lifestyle HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/17847
+#EXTINF:0,10102 tvg-logo="https://epg.ovh/logo/CBS+REALITY.png" tvg-id="CBS Reality" tvg-chno="350" tvg-name="CBS Reality",CBS Reality
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10102
+#EXTINF:0,11586 tvg-logo="https://epg.ovh/logo/CBS+Europa.png" tvg-id="CBS Europa HD" tvg-chno="351" tvg-name="CBS Europa HD",CBS Europa HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11586
+#EXTINF:0,11645 tvg-logo="https://epg.ovh/logo/Comedy+Central.png" tvg-id="Comedy Central (DUBEL)" tvg-chno="352" tvg-name="Comedy Central (DUBEL)",Comedy Central (DUBEL)
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11645
+#EXTINF:0,12010 tvg-logo="https://epg.ovh/logo/Comedy+Central.png" tvg-id="Comedy Central Poland HD" tvg-chno="353" tvg-name="Comedy Central Poland HD",Comedy Central Poland HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12010
+#EXTINF:0,12009 tvg-logo="https://epg.ovh/logo/Polsat+Comedy+Central+Extra.png" tvg-id="Polsat Comedy Central Extra HD" tvg-chno="354" tvg-name="Polsat Comedy Central Extra HD",Polsat Comedy Central Extra HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12009
+#EXTINF:0,11582 tvg-logo="https://epg.ovh/logo/13+Ulica.png" tvg-id="13 Ulica HD" tvg-chno="355" tvg-name="13 Ulica HD",13 Ulica HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11582
+#EXTINF:0,11602 tvg-logo="https://epg.ovh/logo/Scifi+Universal.png" tvg-id="SciFi Universal" tvg-chno="356" tvg-name="SciFi Universal",SciFi Universal
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11602
+#EXTINF:0,11610 tvg-logo="https://epg.ovh/logo/FOX.png" tvg-id="FOX HD" tvg-chno="357" tvg-name="FOX HD",FOX HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11610
+#EXTINF:0,12041 tvg-logo="https://epg.ovh/logo/FOX+Comedy.png" tvg-id="Fox Comedy" tvg-chno="358" tvg-name="Fox Comedy",Fox Comedy
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12041
+#EXTINF:0,11609 tvg-logo="https://epg.ovh/logo/FOX+Comedy.png" tvg-id="Fox Comedy HD" tvg-chno="359" tvg-name="Fox Comedy HD",Fox Comedy HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11609
+#EXTINF:0,11597 tvg-logo="https://epg.ovh/logo/Lifetime.png" tvg-id="Lifetime HD" tvg-chno="360" tvg-name="Lifetime HD",Lifetime HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11597
+#EXTINF:0,11612 tvg-logo="https://epg.ovh/logo/Kino+Polska.png" tvg-id="Kino Polska" tvg-chno="361" tvg-name="Kino Polska",Kino Polska
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11612
+#EXTINF:0,12032 tvg-logo="https://epg.ovh/logo/Kino+Polska+Muzyka.png" tvg-id="Kino Polska Muzyka" tvg-chno="362" tvg-name="Kino Polska Muzyka",Kino Polska Muzyka
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12032
+#EXTINF:0,10111:PL tvg-logo="https://epg.ovh/logo/Ale+Kino+.png" tvg-id="Ale Kino+ HD" tvg-chno="363" tvg-name="Ale Kino+ HD",Ale Kino+ HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10111:PL
+#EXTINF:0,10127 tvg-logo="https://epg.ovh/logo/TV+4.png" tvg-id="TV4" tvg-chno="364" tvg-name="TV4",TV4
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10127
+#EXTINF:0,12028 tvg-logo="https://epg.ovh/logo/TV+6.png" tvg-id="TV6" tvg-chno="365" tvg-name="TV6",TV6
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12028
+#EXTINF:0,10119 tvg-logo="https://epg.ovh/logo/ATM+Rozrywka.png" tvg-id="ATM Rozrywka" tvg-chno="366" tvg-name="ATM Rozrywka",ATM Rozrywka
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10119
+#EXTINF:0,12942 tvg-logo="https://epg.ovh/logo/AMC.png" tvg-id="AMC" tvg-chno="367" tvg-name="AMC",AMC
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12942
+#EXTINF:0,11603 tvg-logo="https://epg.ovh/logo/Sundance+TV.png" tvg-id="Sundance Tv" tvg-chno="368" tvg-name="Sundance Tv",Sundance Tv
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11603
+#EXTINF:0,12022 tvg-logo="https://epg.ovh/logo/ROMANCE+TV.png" tvg-id="Romance TV" tvg-chno="369" tvg-name="Romance TV",Romance TV
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12022
+#EXTINF:0,12016 tvg-logo="https://epg.ovh/logo/Paramount+Channel.png" tvg-id="Paramount Channel HD" tvg-chno="370" tvg-name="Paramount Channel HD",Paramount Channel HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12016
+#EXTINF:0,11605 tvg-logo="https://epg.ovh/logo/TNT.png" tvg-id="TNT HD" tvg-chno="371" tvg-name="TNT HD",TNT HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11605
+#EXTINF:0,11669 tvg-logo="https://epg.ovh/logo/WP.png" tvg-id="WP" tvg-chno="372" tvg-name="WP",WP
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11669
+#EXTINF:0,11670 tvg-logo="https://epg.ovh/logo/NOWA+TV.png" tvg-id="Nowa TV" tvg-chno="373" tvg-name="Nowa TV",Nowa TV
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11670
+#EXTINF:0,72561 tvg-logo="https://epg.ovh/logo/Eleven+Sports+4K.png" tvg-id="Eleven Sports 1 4K" tvg-chno="374" tvg-name="Eleven Sports 1 4K",Eleven Sports 1 4K
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/72561
+#EXTINF:0,10144 tvg-logo="https://epg.ovh/logo/Eleven+Sports+1.png" tvg-id="Eleven Sports 1 HD" tvg-chno="375" tvg-name="Eleven Sports 1 HD",Eleven Sports 1 HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10144
+#EXTINF:0,10145 tvg-logo="https://epg.ovh/logo/Eleven+Sports+2.png" tvg-id="Eleven Sports 2 HD" tvg-chno="376" tvg-name="Eleven Sports 2 HD",Eleven Sports 2 HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10145
+#EXTINF:0,10146 tvg-logo="https://epg.ovh/logo/Eleven+Sports+3.png" tvg-id="Eleven Sports 3 HD" tvg-chno="377" tvg-name="Eleven Sports 3 HD",Eleven Sports 3 HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10146
+#EXTINF:0,12597 tvg-logo="https://epg.ovh/logo/Eleven+Sports+4.png" tvg-id="Eleven Sports 4 HD" tvg-chno="378" tvg-name="Eleven Sports 4 HD",Eleven Sports 4 HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12597
+#EXTINF:0,10087 tvg-logo="https://epg.ovh/logo/Eurosport.png" tvg-id="Eurosport 1" tvg-chno="379" tvg-name="Eurosport 1",Eurosport 1
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10087
+#EXTINF:0,11589 tvg-logo="https://epg.ovh/logo/Eurosport.png" tvg-id="Eurosport 1 HD" tvg-chno="380" tvg-name="Eurosport 1 HD",Eurosport 1 HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11589
+#EXTINF:0,11590 tvg-logo="https://epg.ovh/logo/Eurosport+2.png" tvg-id="Eurosport 2 HD" tvg-chno="381" tvg-name="Eurosport 2 HD",Eurosport 2 HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11590
+#EXTINF:0,11650 tvg-logo="https://epg.ovh/logo/TVP+Sport.png" tvg-id="TVP Sport HD" tvg-chno="382" tvg-name="TVP Sport HD",TVP Sport HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11650
+#EXTINF:0,12033 tvg-logo="https://epg.ovh/logo/Sportklub.png" tvg-id="Sportklub HD" tvg-chno="383" tvg-name="Sportklub HD",Sportklub HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12033
+#EXTINF:0,11592 tvg-logo="https://epg.ovh/logo/FightBox.png" tvg-id="Fightbox HD" tvg-chno="384" tvg-name="Fightbox HD",Fightbox HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11592
+#EXTINF:0,44182 tvg-logo="https://epg.ovh/logo/FIGHTKLUB.png" tvg-id="Fightklub HD" tvg-chno="385" tvg-name="Fightklub HD",Fightklub HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/44182
+#EXTINF:0,11685:PL tvg-logo="https://epg.ovh/logo/nsport+.png" tvg-id="nsport+ HD" tvg-chno="386" tvg-name="nsport+ HD",nsport+ HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11685:PL
+#EXTINF:0,11601 tvg-logo="https://epg.ovh/logo/Polsat+Sport+News.png" tvg-id="Polsat Sport News HD" tvg-chno="387" tvg-name="Polsat Sport News HD",Polsat Sport News HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11601
+#EXTINF:0,12003 tvg-logo="https://epg.ovh/logo/Polsat+Sport.png" tvg-id="Polsat Sport HD" tvg-chno="388" tvg-name="Polsat Sport HD",Polsat Sport HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12003
+#EXTINF:0,17052 tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+1.png" tvg-id="Polsat Sport Premium 1 SD" tvg-chno="389" tvg-name="Polsat Sport Premium 1 SD",Polsat Sport Premium 1 SD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/17052
+#EXTINF:0,35775 tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+1.png" tvg-id="Polsat Sport Premium 1 SHD" tvg-chno="390" tvg-name="Polsat Sport Premium 1 SHD",Polsat Sport Premium 1 SHD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/35775
+#EXTINF:0,35774 tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+2.png" tvg-id="Polsat Sport Premium 2 SHD" tvg-chno="391" tvg-name="Polsat Sport Premium 2 SHD",Polsat Sport Premium 2 SHD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/35774
+#EXTINF:0,35773 tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+3.png" tvg-id="Polsat Sport Premium 3" tvg-chno="392" tvg-name="Polsat Sport Premium 3",Polsat Sport Premium 3
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/35773
+#EXTINF:0,35772 tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+4.png" tvg-id="Polsat Sport Premium 4" tvg-chno="393" tvg-name="Polsat Sport Premium 4",Polsat Sport Premium 4
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/35772
+#EXTINF:0,35771 tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+5.png" tvg-id="Polsat Sport Premium 5" tvg-chno="394" tvg-name="Polsat Sport Premium 5",Polsat Sport Premium 5
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/35771
+#EXTINF:0,35770 tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+6.png" tvg-id="Polsat Sport Premium 6" tvg-chno="395" tvg-name="Polsat Sport Premium 6",Polsat Sport Premium 6
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/35770
+#EXTINF:0,11600 tvg-logo="https://epg.ovh/logo/Polsat+Sport+Fight.png" tvg-id="Polsat Sport Fight HD" tvg-chno="396" tvg-name="Polsat Sport Fight HD",Polsat Sport Fight HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11600
+#EXTINF:0,12058 tvg-logo="https://epg.ovh/logo/Polsat+Sport+Extra.png" tvg-id="Polsat Sport Extra HD" tvg-chno="397" tvg-name="Polsat Sport Extra HD",Polsat Sport Extra HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12058
+#EXTINF:0,12939 tvg-logo="https://epg.ovh/logo/Motowizja.png" tvg-id="Motowizja TV" tvg-chno="398" tvg-name="Motowizja TV",Motowizja TV
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12939
+#EXTINF:0,11591 tvg-logo="https://epg.ovh/logo/Extreme+Sports+Channel.png" tvg-id="Extreme Sports HD" tvg-chno="399" tvg-name="Extreme Sports HD",Extreme Sports HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11591
+#EXTINF:0,11594 tvg-logo="https://epg.ovh/logo/Golf+Channel.png" tvg-id="Golf Channel HD" tvg-chno="400" tvg-name="Golf Channel HD",Golf Channel HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11594
+#EXTINF:0,43646 tvg-logo="https://epg.ovh/logo/Active+Family.png" tvg-id="Active Family" tvg-chno="401" tvg-name="Active Family",Active Family
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/43646
+#EXTINF:0,10140 tvg-logo="https://epg.ovh/logo/TVP+ABC.png" tvg-id="TVP ABC" tvg-chno="402" tvg-name="TVP ABC",TVP ABC
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10140
+#EXTINF:0,11664 tvg-logo="https://epg.ovh/logo/Polsat+JimJam.png" tvg-id="Polsat Jim Jam" tvg-chno="403" tvg-name="Polsat Jim Jam",Polsat Jim Jam
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11664
+#EXTINF:0,10120 tvg-logo="https://epg.ovh/logo/Disney+Channel.png" tvg-id="Disney Channel HD" tvg-chno="404" tvg-name="Disney Channel HD",Disney Channel HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10120
+#EXTINF:0,10088 tvg-logo="https://epg.ovh/logo/Disney+XD.png" tvg-id="Disney XD" tvg-chno="405" tvg-name="Disney XD",Disney XD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10088
+#EXTINF:0,11587 tvg-logo="https://epg.ovh/logo/Disney+Junior.png" tvg-id="Disney Junior" tvg-chno="406" tvg-name="Disney Junior",Disney Junior
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11587
+#EXTINF:0,11585 tvg-logo="https://epg.ovh/logo/Cartoon+Network.png" tvg-id="Cartoon Network HD" tvg-chno="407" tvg-name="Cartoon Network HD",Cartoon Network HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11585
+#EXTINF:0,11598 tvg-logo="https://epg.ovh/logo/Minimini+.png" tvg-id="MiniMini HD" tvg-chno="408" tvg-name="MiniMini HD",MiniMini HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11598
+#EXTINF:0,10069:PL tvg-logo="https://epg.ovh/logo/Teletoon.png" tvg-id="TeleToon+ HD" tvg-chno="409" tvg-name="TeleToon+ HD",TeleToon+ HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10069:PL
+#EXTINF:0,12014 tvg-logo="https://epg.ovh/logo/Nickelodeon.png" tvg-id="Nickelodeon" tvg-chno="410" tvg-name="Nickelodeon",Nickelodeon
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12014
+#EXTINF:0,45576 tvg-logo="https://epg.ovh/logo/Nicktoons.png" tvg-id="Nicktoons HD" tvg-chno="411" tvg-name="Nicktoons HD",Nicktoons HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/45576
+#EXTINF:0,11665 tvg-logo="https://epg.ovh/logo/Boomerang.png" tvg-id="Boomerang" tvg-chno="412" tvg-name="Boomerang",Boomerang
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11665
+#EXTINF:0,12944 tvg-logo="https://epg.ovh/logo/BBC+CBeebies.png" tvg-id="BBC CBeebies" tvg-chno="413" tvg-name="BBC CBeebies",BBC CBeebies
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12944
+#EXTINF:0,17400 tvg-logo="https://epg.ovh/logo/Baby+TV.png" tvg-id="Baby Tv" tvg-chno="414" tvg-name="Baby Tv",Baby Tv
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/17400
+#EXTINF:0,12013 tvg-logo="https://epg.ovh/logo/Nick+Jr..png" tvg-id="Nick Jr Polska" tvg-chno="415" tvg-name="Nick Jr Polska",Nick Jr Polska
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12013
+#EXTINF:0,12038 tvg-logo="https://epg.ovh/logo/Discovery+Channel.png" tvg-id="Discovery" tvg-chno="416" tvg-name="Discovery",Discovery
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12038
+#EXTINF:0,12021 tvg-logo="https://epg.ovh/logo/Discovery+Channel.png" tvg-id="Discovery HD (dubel)" tvg-chno="417" tvg-name="Discovery HD (dubel)",Discovery HD (dubel)
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12021
+#EXTINF:0,10089 tvg-logo="https://epg.ovh/logo/Discovery+Channel.png" tvg-id="Discovery Channel HD (dubel)" tvg-chno="418" tvg-name="Discovery Channel HD (dubel)",Discovery Channel HD (dubel)
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10089
+#EXTINF:0,12024 tvg-logo="https://epg.ovh/logo/DTX.png" tvg-id="DTX" tvg-chno="419" tvg-name="DTX",DTX
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12024
+#EXTINF:0,10084 tvg-logo="https://epg.ovh/logo/Discovery+Science.png" tvg-id="Discovery Science HD" tvg-chno="420" tvg-name="Discovery Science HD",Discovery Science HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10084
+#EXTINF:0,10143 tvg-logo="https://epg.ovh/logo/Discovery+Historia.png" tvg-id="Discovery Historia" tvg-chno="421" tvg-name="Discovery Historia",Discovery Historia
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10143
+#EXTINF:0,10070 tvg-logo="https://epg.ovh/logo/Discovery+Life.png" tvg-id="Discovery Life HD" tvg-chno="422" tvg-name="Discovery Life HD",Discovery Life HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10070
+#EXTINF:0,12036 tvg-logo="https://epg.ovh/logo/ID.png" tvg-id="ID HD" tvg-chno="423" tvg-name="ID HD",ID HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12036
+#EXTINF:0,10080 tvg-logo="https://epg.ovh/logo/History.png" tvg-id="History HD" tvg-chno="424" tvg-name="History HD",History HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10080
+#EXTINF:0,11654 tvg-logo="https://epg.ovh/logo/History.png" tvg-id="History HD (brak)" tvg-chno="425" tvg-name="History HD (brak)",History HD (brak)
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11654
+#EXTINF:0,11595 tvg-logo="https://epg.ovh/logo/History+2.png" tvg-id="History 2 HD" tvg-chno="426" tvg-name="History 2 HD",History 2 HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11595
+#EXTINF:0,12043 tvg-logo="https://epg.ovh/logo/Polsat+Viasat+Nature.png" tvg-id="Polsat Viasat Nature HD" tvg-chno="427" tvg-name="Polsat Viasat Nature HD",Polsat Viasat Nature HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12043
+#EXTINF:0,12059 tvg-logo="https://epg.ovh/logo/Polsat+Viasat+History.png" tvg-id="Polsat Viasat History HD" tvg-chno="428" tvg-name="Polsat Viasat History HD",Polsat Viasat History HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12059
+#EXTINF:0,10115 tvg-logo="https://epg.ovh/logo/POLSAT+Viasat+Explore.png" tvg-id="Polsat Viasat Explore HD" tvg-chno="429" tvg-name="Polsat Viasat Explore HD",Polsat Viasat Explore HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10115
+#EXTINF:0,25360 tvg-logo="https://epg.ovh/logo/Epic+Drama.png" tvg-id="Epic Drama HD" tvg-chno="430" tvg-name="Epic Drama HD",Epic Drama HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/25360
+#EXTINF:0,12044 tvg-logo="https://epg.ovh/logo/TLC.png" tvg-id="TLC HD" tvg-chno="431" tvg-name="TLC HD",TLC HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12044
+#EXTINF:0,11604 tvg-logo="https://epg.ovh/logo/TLC.png" tvg-id="TLC HD (dubel)" tvg-chno="432" tvg-name="TLC HD (dubel)",TLC HD (dubel)
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11604
+#EXTINF:0,10085 tvg-logo="https://epg.ovh/logo/Da+Vinci+Learning.png" tvg-id="Da Vinci Learning" tvg-chno="433" tvg-name="Da Vinci Learning",Da Vinci Learning
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10085
+#EXTINF:0,11637 tvg-logo="https://epg.ovh/logo/Fokus+TV.png" tvg-id="Fokus TV HD" tvg-chno="434" tvg-name="Fokus TV HD",Fokus TV HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11637
+#EXTINF:0,18248 tvg-logo="https://epg.ovh/logo/CI+Polsat.png" tvg-id="CI Polsat HD" tvg-chno="435" tvg-name="CI Polsat HD",CI Polsat HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/18248
+#EXTINF:0,11599 tvg-logo="https://epg.ovh/logo/National+Geographic+Channel+HD.png" tvg-id="National Geographic HD" tvg-chno="436" tvg-name="National Geographic HD",National Geographic HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11599
+#EXTINF:0,10096 tvg-logo="https://epg.ovh/logo/Nat+Geo+Wild.png" tvg-id="Nat Geo Wild HD" tvg-chno="437" tvg-name="Nat Geo Wild HD",Nat Geo Wild HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10096
+#EXTINF:0,10867 tvg-logo="https://epg.ovh/logo/Nat+Geo+People.png" tvg-id="Nat Geo People HD" tvg-chno="438" tvg-name="Nat Geo People HD",Nat Geo People HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10867
+#EXTINF:0,10105 tvg-logo="https://epg.ovh/logo/Animal+Planet.png" tvg-id="Animal Planet HD" tvg-chno="439" tvg-name="Animal Planet HD",Animal Planet HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10105
+#EXTINF:0,10138 tvg-logo="https://epg.ovh/logo/Adventure.png" tvg-id="Adventure HD" tvg-chno="440" tvg-name="Adventure HD",Adventure HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10138
+#EXTINF:0,11651 tvg-logo="https://epg.ovh/logo/Planete+.png" tvg-id="Planete  HD (brak)" tvg-chno="441" tvg-name="Planete  HD (brak)",Planete  HD (brak)
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11651
+#EXTINF:0,10106:PL tvg-logo="https://epg.ovh/logo/Planete+.png" tvg-id="Planete+ HD" tvg-chno="442" tvg-name="Planete+ HD",Planete+ HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10106:PL
+#EXTINF:0,22619 tvg-logo="https://epg.ovh/logo/Travel+Channel.png" tvg-id="Travel Channel HD" tvg-chno="443" tvg-name="Travel Channel HD",Travel Channel HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/22619
+#EXTINF:0,12025 tvg-logo="https://epg.ovh/logo/METRO.png" tvg-id="Metro" tvg-chno="444" tvg-name="Metro",Metro
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12025
+#EXTINF:0,10137 tvg-logo="https://epg.ovh/logo/HGTV.png" tvg-id="HGTV HD" tvg-chno="445" tvg-name="HGTV HD",HGTV HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10137
+#EXTINF:0,11588 tvg-logo="https://epg.ovh/logo/E!+Entertainment.png" tvg-id="E! Entertainment" tvg-chno="446" tvg-name="E! Entertainment",E! Entertainment
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11588
+#EXTINF:0,44180 tvg-logo="https://epg.ovh/logo/NICKMUSIC.png" tvg-id="NIck Music" tvg-chno="447" tvg-name="NIck Music",NIck Music
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/44180
+#EXTINF:0,12004 tvg-logo="https://epg.ovh/logo/MTV+Polska.png" tvg-id="MTV Polska HD" tvg-chno="448" tvg-name="MTV Polska HD",MTV Polska HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12004
+#EXTINF:0,12012 tvg-logo="https://epg.ovh/logo/MTV+Polska.png" tvg-id="MTV Polska HD (dubel)" tvg-chno="449" tvg-name="MTV Polska HD (dubel)",MTV Polska HD (dubel)
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12012
+#EXTINF:0,12011 tvg-logo="https://epg.ovh/logo/MTV+Live.png" tvg-id="MTV Live HD" tvg-chno="450" tvg-name="MTV Live HD",MTV Live HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12011
+#EXTINF:0,44179 tvg-logo="https://epg.ovh/logo/MTV+Rocks.png" tvg-id="MTV ROCKS" tvg-chno="451" tvg-name="MTV ROCKS",MTV ROCKS
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/44179
+#EXTINF:0,12017 tvg-logo="https://epg.ovh/logo/VH1.png" tvg-id="VH1" tvg-chno="452" tvg-name="VH1",VH1
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12017
+#EXTINF:0,11658 tvg-logo="https://epg.ovh/logo/Eska+TV.png" tvg-id="Eska TV" tvg-chno="453" tvg-name="Eska TV",Eska TV
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11658
+#EXTINF:0,12039 tvg-logo="https://epg.ovh/logo/Eska+TV+Extra.png" tvg-id="ESKA TV Extra" tvg-chno="454" tvg-name="ESKA TV Extra",ESKA TV Extra
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12039
+#EXTINF:0,44181 tvg-logo="https://epg.ovh/logo/Eska+TV+Rock.png" tvg-id="ESKA Rock TV" tvg-chno="455" tvg-name="ESKA Rock TV",ESKA Rock TV
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/44181
+#EXTINF:0,12023 tvg-logo="https://epg.ovh/logo/4FUN.TV.png" tvg-id="4Fun.TV" tvg-chno="456" tvg-name="4Fun.TV",4Fun.TV
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12023
+#EXTINF:0,11659 tvg-logo="https://epg.ovh/logo/4FUN+GOLD.png" tvg-id="4Fun Gold Hits" tvg-chno="457" tvg-name="4Fun Gold Hits",4Fun Gold Hits
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11659
+#EXTINF:0,11660 tvg-logo="https://epg.ovh/logo/4FUN+DANCE.png" tvg-id="4Fun Dance" tvg-chno="458" tvg-name="4Fun Dance",4Fun Dance
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11660
+#EXTINF:0,10090 tvg-logo="https://epg.ovh/logo/Vox+Music+TV.png" tvg-id="VOX Music TV" tvg-chno="459" tvg-name="VOX Music TV",VOX Music TV
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10090
+#EXTINF:0,12027 tvg-logo="https://epg.ovh/logo/Stars+TV.png" tvg-id="Stars.TV" tvg-chno="460" tvg-name="Stars.TV",Stars.TV
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12027
+#EXTINF:0,12034 tvg-logo="https://epg.ovh/logo/Trace+Urban.png" tvg-id="Trace TV" tvg-chno="461" tvg-name="Trace TV",Trace TV
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12034
+#EXTINF:0,11661 tvg-logo="https://epg.ovh/logo/Polsat+Music.png" tvg-id="Polsat Music HD" tvg-chno="462" tvg-name="Polsat Music HD",Polsat Music HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11661
+#EXTINF:0,12037 tvg-logo="https://epg.ovh/logo/Disco+Polo+Music.png" tvg-id="Disco Polo Music" tvg-chno="463" tvg-name="Disco Polo Music",Disco Polo Music
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12037
+#EXTINF:0,12042 tvg-logo="https://epg.ovh/logo/Polo+TV.png" tvg-id="Polo TV" tvg-chno="464" tvg-name="Polo TV",Polo TV
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12042
+#EXTINF:0,11675 tvg-logo="https://epg.ovh/logo/POWER+TV.png" tvg-id="Power TV" tvg-chno="465" tvg-name="Power TV",Power TV
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11675
+#EXTINF:0,12045 tvg-logo="https://epg.ovh/logo/To!TV.png" tvg-id="TO!TV" tvg-chno="466" tvg-name="TO!TV",TO!TV
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12045
+#EXTINF:0,11656 tvg-logo="https://epg.ovh/logo/Nuta+TV.png" tvg-id="Nuta TV" tvg-chno="467" tvg-name="Nuta TV",Nuta TV
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11656
+#EXTINF:0,10071 tvg-logo="https://epg.ovh/logo/HIP+HOP+TV+()brak).png" tvg-id="HIP HOP TV ()brak)" tvg-chno="468" tvg-name="HIP HOP TV ()brak)",HIP HOP TV ()brak)
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10071
+#EXTINF:0,35367 tvg-logo="https://epg.ovh/logo/TVP+Polonia.png" tvg-id="TVP Polonia" tvg-chno="469" tvg-name="TVP Polonia",TVP Polonia
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/35367
+#EXTINF:0,10092 tvg-logo="https://epg.ovh/logo/TVP+Kultura.png" tvg-id="TVP Kultura" tvg-chno="470" tvg-name="TVP Kultura",TVP Kultura
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10092
+#EXTINF:0,12007 tvg-logo="https://epg.ovh/logo/TVP+Historia.png" tvg-id="TVP Historia" tvg-chno="471" tvg-name="TVP Historia",TVP Historia
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12007
+#EXTINF:0,10077 tvg-logo="https://epg.ovh/logo/TV+Republika.png" tvg-id="TV Republika" tvg-chno="472" tvg-name="TV Republika",TV Republika
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10077
+#EXTINF:0,12047 tvg-logo="https://epg.ovh/logo/TTV.png" tvg-id="TTV HD" tvg-chno="473" tvg-name="TTV HD",TTV HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/12047
+#EXTINF:0,11672 tvg-logo="https://epg.ovh/logo/ZOOM+TV.png" tvg-id="Zoom TV" tvg-chno="474" tvg-name="Zoom TV",Zoom TV
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/11672
+#EXTINF:0,10068 tvg-logo="https://epg.ovh/logo/TVS.png" tvg-id="TVS" tvg-chno="475" tvg-name="TVS",TVS
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10068
+#EXTINF:0,13518 tvg-logo="https://epg.ovh/logo/Polonia+1.png" tvg-id="Polonia 1" tvg-chno="476" tvg-name="Polonia 1",Polonia 1
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/13518
+#EXTINF:0,10094 tvg-logo="https://epg.ovh/logo/TV+Puls.png" tvg-id="Puls HD" tvg-chno="477" tvg-name="Puls HD",Puls HD
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10094
+#EXTINF:0,10128 tvg-logo="https://epg.ovh/logo/Puls+2.png" tvg-id="Puls 2" tvg-chno="478" tvg-name="Puls 2",Puls 2
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10128
+#EXTINF:0,10075 tvg-logo="https://epg.ovh/logo/VOD+205.png" tvg-id="VOD 205" tvg-chno="479" tvg-name="VOD 205",VOD 205
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10075
+#EXTINF:0,10074 tvg-logo="https://epg.ovh/logo/VOD+206.png" tvg-id="VOD 206" tvg-chno="480" tvg-name="VOD 206",VOD 206
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10074
+#EXTINF:0,10073 tvg-logo="https://epg.ovh/logo/VOD+207.png" tvg-id="VOD 207" tvg-chno="481" tvg-name="VOD 207",VOD 207
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10073
+#EXTINF:0,10072 tvg-logo="https://epg.ovh/logo/VOD+208.png" tvg-id="VOD 208" tvg-chno="482" tvg-name="VOD 208",VOD 208
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/10072
+#EXTINF:0,17848 tvg-logo="https://epg.ovh/logo/KSW PL.png" tvg-id="PPV KSW FIGHTS" tvg-chno="483" tvg-name="PPV KSW FIGHTS",PPV KSW FIGHTS
+http://1sn.ns1.name:18800/fullkillerIreland/gdgsdgsgsdgsdg4214241gdgdsgsgs/17848
